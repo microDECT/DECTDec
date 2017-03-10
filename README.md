@@ -1,6 +1,6 @@
 # DECTDec
 
-DECTDec (Dual Energy Computed Tomography Decomposition) is a MATLAB-based tool for three-material decomposition based on dual energy microCT scanning. It is a supplement to the publication _"Microscopic dual energy CT (microDECT): a flexible tool for isotropic multi-channel imaging of biological ex vivo specimens"_.
+DECTDec (Dual Energy Computed Tomography Decomposition) is a MATLAB-based tool for three-material decomposition based on dual energy microCT scanning. It is a supplement to the publication _"Microscopic dual energy CT (microDECT): a flexible tool for multi-channel ex vivo 3D imaging of biological specimens"_.
 
 
 ###Requirements:
