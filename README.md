@@ -14,4 +14,4 @@ Contents:
 3. Manual
 
 If you use this code, please cite as:  
-Handschuh, S., Beisser, C.J., Ruthensteiner, B., and B.D. Metscher (2017): Microscopic dual-energy CT (microDECT): a flexible tool for multichannel ex vivo 3D imaging of biological specimens. Journal of Microscopy 267 (1), 3-26. DOI: 10.1111/jmi.12543_
+Handschuh, S., Beisser, C.J., Ruthensteiner, B., and B.D. Metscher (2017): Microscopic dual-energy CT (microDECT): a flexible tool for multichannel ex vivo 3D imaging of biological specimens. Journal of Microscopy 267 (1), 3-26. DOI: 10.1111/jmi.12543
